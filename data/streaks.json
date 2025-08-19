@@ -1,11 +1,17 @@
 {
-  "streak_count": 1,
+  "streak_count": 2,
   "streaks": [
     {
       "day": 1,
       "timestamp": "2025-08-18 17:06:23 PKT",
       "date": "2025-08-18",
       "description": "Day 1: 2025-08-18 17:06:23 PKT"
+    },
+    {
+      "day": 2,
+      "timestamp": "2025-08-19 08:46:39 PKT",
+      "date": "2025-08-19",
+      "description": "Day 2: 2025-08-19 08:46:39 PKT"
     }
   ],
   "timezone": "Asia/Karachi"
